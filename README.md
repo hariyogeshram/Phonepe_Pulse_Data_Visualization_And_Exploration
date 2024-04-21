@@ -1,6 +1,6 @@
 # Phonepe_Pulse_Data_Visualization_And_Exploration
 
-# The aim of this project is to develop a solution that extracts, transforms, and visualizes data from the Phonepe Pulse GitHub repository. 
+## "The aim of this project" is to develop a solution that extracts, transforms, and visualizes data from the Phonepe Pulse GitHub repository. 
 
 # The process involves:
 
@@ -26,16 +26,16 @@
 
 # Libraries Used in this Project :- 
 
-	##1. import streamlit as st
-	##2. import os
-	##3. import json
-	##4. import pandas as pd
-	##5. import pyodbc
-	##6. import mysql.connector
-	##7. import requests
-	##8. import plotly.express as px
-	##9. import plotly.graph_objects as go
-	##10.from PIL import Image 
+	## 1. import streamlit as st
+	## 2. import os
+	## 3. import json
+	## 4. import pandas as pd
+	## 5. import pyodbc
+	## 6. import mysql.connector
+	## 7. import requests
+	## 8. import plotly.express as px
+	## 9. import plotly.graph_objects as go
+	## 10.from PIL import Image 
 				   
 
 NAME    : HARI YOGESH RAM B
