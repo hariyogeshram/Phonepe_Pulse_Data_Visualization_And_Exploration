@@ -885,7 +885,7 @@ with tab2:
             animate_all_count()
             payment_amount()
 
-        state=st.selectbox("selecet the state",('Andaman And Nicobar', 'Andhra Pradesh', 'Arunachal Pradesh',
+        state=st.selectbox("select the state",('Andaman And Nicobar', 'Andhra Pradesh', 'Arunachal Pradesh',
                                                 'Assam', 'Bihar', 'Chandigarh', 'Chhattisgarh',
                                                 'Dadra & Nagar Haveli & Daman & Diu', 'Delhi', 'Goa',
                                                 'Gujarat', 'Haryana', 'Himachal Pradesh', 'Jammu & Kashmir',
